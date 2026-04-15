@@ -5,7 +5,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
 	eleventyConfig.addPlugin(VentoPlugin);
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
-	eleventyConfig.addPassthroughCopy("style.css");
+	eleventyConfig.addPassthroughCopy("styles");
 	return {
 		markdownTemplateEngine: 'vto',
 		htmlTemplateEngine: 'vto'

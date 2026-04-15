@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "eleventy --serve --pathprefix=inst466",
-    "build": "eleventy --pathprefix=inst466"
+    "serve": "eleventy --serve --pathprefix=inst",
+    "build": "eleventy --pathprefix=inst"
   },
   "repository": {
     "type": "git",
