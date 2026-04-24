@@ -6,7 +6,7 @@
 }
 
 html {
-	color: var(--off-white);
-	background-color: var(--off-black);
+	color: var(--off-black);
+	background-color: var(--off-white);
 	font-family: 'Atkinson Hyperlegible';
 }
