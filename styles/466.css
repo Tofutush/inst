@@ -3,7 +3,8 @@
 :root {
 	--off-black: #332e35;
 	--off-white: #faf3e5;
-	--purple: #d9bfe0;
+	--purple-light: #d9bfe0;
+	--purple-dark: #521563;
 }
 
 html {
@@ -21,11 +22,28 @@ header {
 	padding: 1em;
 	background-color: var(--off-black);
 	color: var(--off-white);
+	font-size: 120%;
+
+	a,
+	a:visited {
+		color: var(--purple-light);
+		text-decoration: none;
+	}
 }
 
 nav {
 	display: flex;
 	gap: 1em;
+}
+
+footer {
+	background-color: var(--off-black);
+	padding: 1em;
+
+	a,
+	a:visited {
+		color: var(--purple-light);
+	}
 }
 
 main {
@@ -36,7 +54,7 @@ main {
 
 a,
 a:visited {
-	color: var(--purple);
+	color: var(--purple-dark);
 	text-decoration: none;
 }
 
@@ -46,6 +64,8 @@ a:hover {
 
 details {
 	margin: 1em 0;
+	border: 2px solid var(--off-black);
+	padding: 1em;
 }
 
 summary {
