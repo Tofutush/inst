@@ -3,10 +3,42 @@
 :root {
 	--off-black: #332e35;
 	--off-white: #faf3e5;
+	--accent: #83254f;
 }
 
 html {
 	color: var(--off-black);
 	background-color: var(--off-white);
 	font-family: 'Atkinson Hyperlegible';
+	font-size: 22px;
+}
+
+header {
+	text-align: center;
+	font-size: 120%;
+	margin: 1em;
+	padding: 1em;
+	background-color: #0001;
+	border-radius: 1em;
+}
+
+nav {
+	display: flex;
+	gap: 1em;
+	justify-content: center;
+}
+
+a,
+a:visited {
+	color: var(--accent);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+footer {
+	text-align: center;
+	margin: 1em;
 }
