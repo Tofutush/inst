@@ -3,10 +3,55 @@
 :root {
 	--off-black: #332e35;
 	--off-white: #faf3e5;
+	--purple: #d9bfe0;
 }
 
 html {
-	color: var(--off-white);
-	background-color: var(--off-black);
+	color: var(--off-black);
+	background-color: var(--off-white);
 	font-family: 'Atkinson Hyperlegible';
+	font-size: 22px;
+}
+
+body {
+	margin: 0;
+}
+
+header {
+	padding: 1em;
+	background-color: var(--off-black);
+	color: var(--off-white);
+}
+
+nav {
+	display: flex;
+	gap: 1em;
+}
+
+main {
+	padding: 1em;
+	max-width: 960px;
+	margin: auto;
+}
+
+a,
+a:visited {
+	color: var(--purple);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+details {
+	margin: 1em 0;
+}
+
+summary {
+	cursor: pointer;
+
+	& h2 {
+		display: inline;
+	}
 }

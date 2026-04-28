@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+	--off-black: #332e35;
+	--off-white: #faf3e5;
+}
+
+html {
+	color: var(--off-black);
+	background-color: var(--off-white);
+	font-family: 'Atkinson Hyperlegible';
+}
