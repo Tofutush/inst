@@ -4,7 +4,7 @@
 	--off-black: #332e35;
 	--off-white: #faf3e5;
 	--purple-light: #d9bfe0;
-	--purple-dark: #521563;
+	--purple-dark: #8a32a3;
 }
 
 html {
@@ -61,6 +61,16 @@ a:visited {
 
 a:hover {
 	text-decoration: underline;
+}
+
+.proceed {
+	font-size: 120%;
+	box-sizing: border-box;
+	transition: padding .3s;
+
+	&:hover {
+		padding-left: 1em;
+	}
 }
 
 details {
