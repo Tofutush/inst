@@ -3,7 +3,6 @@
 :root {
 	--off-black: #332e35;
 	--off-white: #faf3e5;
-	--accent: #83254f;
 }
 
 html {
@@ -34,10 +33,13 @@ main {
 	line-height: 2;
 }
 
-a,
-a:visited {
-	color: var(--accent);
+a {
+	color: #a03c69;
 	text-decoration: none;
+}
+
+a:visited {
+	color: #83254f;
 }
 
 a:hover {
@@ -45,8 +47,7 @@ a:hover {
 }
 
 footer {
-	text-align: center;
-	margin: 1em;
+	padding: 2em;
 }
 
 .highlight {

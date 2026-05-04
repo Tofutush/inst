@@ -7,3 +7,4 @@ title: Sources and references
 - Dastin, Jeffrey. “Insight - Amazon scraps secret AI recruiting tool that showed bias against women.” Reuters, 10 Oct. 2018, <https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G>. Accessed 28 Apr. 2026.
 - Milne, Stefan. “AI Tools Show Biases in Ranking Job Applicants’ Names According to Perceived Race and Gender.” UW News, 31 Oct. 2024, <https://www.washington.edu/news/2024/10/31/ai-bias-resume-screening-race-gender>.
 - View of Bias in AI Hiring Tools. <https://research-archive.org/index.php/rars/preprint/view/2177/3055>.
+- Lum, Kristian, and William Isaac. “To Predict and Serve?” Significance, vol. 13, no. 5, Oct. 2016, pp. 14–19. <https://doi.org/10.1111/j.1740-9713.2016.00960.x>.
