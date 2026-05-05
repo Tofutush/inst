@@ -2,8 +2,6 @@
 title: Group members
 ---
 
-# Xuanqi Xie
-
 # Riley Tokofsky
 
 # Ashleigh Louie
@@ -11,3 +9,7 @@ title: Group members
 # Elaina Mangum
 
 # Asia Robillard-Hill
+
+# Xuanqi Xie
+
+Made with <3 and 11ty.
