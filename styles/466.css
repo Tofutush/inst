@@ -23,6 +23,10 @@ header {
 	background-color: var(--off-black);
 	color: var(--off-white);
 	font-size: 120%;
+	background-image: linear-gradient(to right, var(--off-black) 50%, #0000), url(/inst/img/1.png);
+	background-position: right center;
+	background-size: cover;
+	background-repeat: no-repeat;
 
 	a,
 	a:visited {
@@ -85,4 +89,25 @@ summary {
 	& h2 {
 		display: inline;
 	}
+}
+
+.max {
+	width: 90%;
+	display: block;
+	margin: auto;
+}
+
+.float {
+	display: block;
+	width: 30%;
+}
+
+.right {
+	margin: 0 0 1em 1em;
+	float: right;
+}
+
+.left {
+	margin: 0 1em 1em 0;
+	float: left;
 }
