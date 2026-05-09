@@ -13,3 +13,4 @@ title: Sources and references
 - Roth, Sarah, and Becca Delbos. AI Is Causing Massive Hiring Discrimination Based on Disability. 8 Apr. 2024, <https://thehill.com/opinion/technology/4576649-ai-is-causing-massive-hiring-discrimination-based-on-disability>. Accessed 4 May 2026.
 - “Hiring with AI Doesn’t Have to Be so Inhumane. Here’s How.” World Economic Forum, 28 Mar. 2025, <https://www.weforum.org/stories/2025/03/ai-hiring-human-touch-recruitment/>.
 - SIMPSON, ELLEN, et al. “Tarai Methods Paper.Pdf.” Human Resource Management and AI: A Contextual Transparency Database, <https://www.tarai.org/>, 2025, drive.google.com/file/d/1GXaZShWlIf2iqO4DvoxwB1Vhem9f1TVY/view.
+- Friedler, Sorelle A., Carlos Scheidegger, and Suresh Venkatasubramanian. "The (im) possibility of fairness: Different value systems require different mechanisms for fair decision making." Communications of the ACM 64.4 (2021): 136-143.
