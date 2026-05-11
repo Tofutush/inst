@@ -32,9 +32,9 @@ Even as New York City lawmakers passed the Automated Employment Decision Tool Ac
 
 ---
 
-# Conclusion 
+# Conclusion
 
-It is clear that bias is heavily present throughout the hiring process via ATS tools. Putting some of these concepts together, Bloomberg designed an experiment to measure racial bias using OpenAI's GPT-3.5 and GPT-4 models. Similar resumes were created with the main difference being the ethnicity and gender associated with that name, and the findings showed more example of the biases that using AI can introduce (Yin et al, 2024). In this case, the primary bias lay in race and not gender, but this just goes to show how all of these different systems can have different types of biases that go undetected if not for audits. 
+It is clear that bias is heavily present throughout the hiring process via ATS tools. Putting some of these concepts together, Bloomberg designed an experiment to measure racial bias using OpenAI's GPT-3.5 and GPT-4 models. Similar resumes were created with the main difference being the ethnicity and gender associated with that name, and the findings showed more example of the biases that using AI can introduce (Yin et al, 2024). In this case, the primary bias lay in race and not gender, but this just goes to show how all of these different systems can have different types of biases that go undetected if not for audits.
 
 ![Bloomberg Study Results](/img/bloomberg.png)
 
