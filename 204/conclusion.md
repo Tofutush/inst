@@ -4,9 +4,9 @@ title: Why is this?
 
 # Why is the AI biased?
 
-The AI was mostly trained on resumes of past applicants to Amazon, and most of the successful resumes were from **male applicants**, due to the historical gender bias in the field (Dastin, 2018). This taught the AI to favor men above women.
+The majority of biases within these systems stem from biased data. When companies use historical data and current employee records to determine who gets filtered out, biases are almost inevitable. For example, Amazon's system (similar to many others in hiring) were trained on past applicants and employees that were deemed "successful. However, most of the successful resumes were from **male applicants**, due to the historical gender bias in the field (Dastin, 2018). This taught the AI to bias men above women.
 
-Similar to the data used to train predictive policing algorithms, where areas already frequently-patrolled by the police would be overrepresented in the data, which creates a negative feedback loop that reinforces the over-policing of those areas (Lum et al, 2016), AI hiring algorithms also suffer from a biased representation in the training data, which already favored men over women.
+This is similar to the data used to train predictive policing algorithms, where areas already frequently-patrolled by the police would be overrepresented in the data, which creates a negative feedback loop that reinforces the over-policing of those areas (Lum et al, 2016). In this case, AI hiring algorithms also suffer from a biased representation in the training data, which already favors men over women, which creates a similar feedback loop propagating that bias throughout the hiring process. This is not the only bias that is seen throughout the hiring process, as other biases are also present which can be observed through both the previous resume examples and are elaborated on below.
 
 # Why are we using ATS at all?
 
@@ -32,4 +32,10 @@ Even as New York City lawmakers passed the Automated Employment Decision Tool Ac
 
 ---
 
-All of the examples above show how AI reflects and reinforces real-world biases in its decision-making processes, and how these biases would impact intersectional identities more severely.
+# Conclusion 
+
+It is clear that bias is heavily present throughout the hiring process via ATS tools. Putting some of these concepts together, Bloomberg designed an experiment to measure racial bias using OpenAI's GPT-3.5 and GPT-4 models. Similar resumes were created with the main difference being the ethnicity and gender associated with that name, and the findings showed more example of the biases that using AI can introduce (Yin et al, 2024). In this case, the primary bias lay in race and not gender, but this just goes to show how all of these different systems can have different types of biases that go undetected if not for audits. 
+
+![Bloomberg Study Results](/img/bloomberg.png)
+
+All of the examples above show how AI reflects and reinforces real-world biases in its decision-making processes, and how these biases would impact intersectional identities more severely. Change needs to be made in the current automated decision systems used in the hiring process in order to ensure an even playing field for everyone, especially when it comes to something so important as people's livelihoods.
