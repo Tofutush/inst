@@ -78,10 +78,7 @@ footer {
 	padding: 1em;
 	max-width: 800px;
 	margin: auto;
-	
-	& h1 {
-		text-align: center;
-	}
+
 	& img {
 		float: right;
 		height: 260px;
